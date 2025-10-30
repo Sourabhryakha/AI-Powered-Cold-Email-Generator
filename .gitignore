@@ -1,0 +1,48 @@
+# 🔒 Environment variables
+.env
+.env.*
+
+# 🧠 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧩 Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# 🧰 Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# 🧑‍💻 IDE/editor settings
+.vscode/
+.idea/
+
+# 📦 Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# 📄 Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# ⚙️ System files
+.DS_Store
+Thumbs.db
+
+# 🧠 Model or AI-related outputs
+*.pt
+*.bin
+*.h5
+*.ckpt
+
+# 🧾 Streamlit cache (if you used Streamlit)
+.streamlit/
